@@ -1,3 +1,10 @@
+libevdevc (2.0) vivid; urgency=medium
+
+  * Set package version to match provenance
+  * Upstream https://github.com/hugegreenbug/libevdevc
+
+ -- reynhout <reynhout@galliumos.org>  Sun, 10 Jan 2016 21:05:33 +0000
+
 libevdevc (2.0-ubuntu4) vivid; urgency=medium
 
   * Synced ChromeOS changes 

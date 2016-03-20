@@ -1,3 +1,9 @@
+libevdevc (2.0-xenial) xenial; urgency=medium
+
+  * Package for xenial
+
+ -- Hugh Greenberg <hugh@galliumos.org>  Fri, 18 Mar 2016 21:05:33 +0000
+
 libevdevc (2.0) vivid; urgency=medium
 
   * Set package version to match provenance

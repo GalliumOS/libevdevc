@@ -1,3 +1,9 @@
+libevdevc (3.0) bismuth; urgency=medium
+
+  * Prepare for GalliumOS 3.0
+
+ -- reynhout <reynhout@galliumos.org>  Thu, 10 May 2018 03:51:59 +0000
+
 libevdevc (2.0-xenial) xenial; urgency=medium
 
   * Package for xenial

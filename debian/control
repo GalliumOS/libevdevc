@@ -4,7 +4,7 @@ Maintainer: Hugh Greenberg <hugegreenbug@gmail.com>
 Build-Depends: debhelper (>= 8.0.0)
 Standards-Version: 3.9.4
 Section: libs
-Homepage: https://github.com/hugegreenbug/libevdevc 
+Homepage: https://github.com/hugegreenbug/libevdevc
 #Vcs-Git: git://git.debian.org/collab-maint/libevdevc.git
 #Vcs-Browser: http://git.debian.org/?p=collab-maint/libevdevc.git;a=summary
 
